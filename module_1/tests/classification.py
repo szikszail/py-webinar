@@ -23,7 +23,3 @@ class GradeTest(unittest.TestCase):
     ])
     def test_return_right_grade(self, score, result):
         self.assertEqual(grade(score), result)
-
-
-if __name__ == "__main__":
-    unittest.main()
