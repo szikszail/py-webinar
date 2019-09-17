@@ -10,8 +10,8 @@ Tasks of Python webinar.
 ## Setup
 
 ```
-$> git clone https://github.com/szikszail/js-webinar.git
-$> cd js-webinar
+$> git clone https://github.com/szikszail/py-webinar.git
+$> cd py-webinar
 $> pip install pipenv
 $> pipenv install
 ```
@@ -62,14 +62,14 @@ To have a forked repository and create pull request, the following steps could b
 1. **Clone your instance** of the forked repository to your computer:
 
     ```
-    $> git clone https://github.com/<your-user-name>/js-webinar.git
-    $> cd js-webinar
+    $> git clone https://github.com/<your-user-name>/py-webinar.git
+    $> cd py-webinar
     ```
 
 1. To get updates and latest version, you should **set the original repository as another remote**:
 
     ```
-    $> git remote add source https://github.com/szikszail/js-webinar.git
+    $> git remote add source https://github.com/szikszail/py-webinar.git
     ```
 
 1. Anytime, you want to **update your code with latest changes on the original repository**, the following command should be executed:
